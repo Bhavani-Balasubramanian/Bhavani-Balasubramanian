@@ -9,7 +9,7 @@ Now, as an **aspiring Business Intelligence & Data Analyst**, I love turning raw
 ---
 
 ## 📄 Resume
-[Click here to view my Resume](./Bhavani_Ram_Resume.pdf)
+[Click here to view my Resume](./Bhavani Balasubramanian_Resume.pdf)
 
 ---
 
