@@ -1,5 +1,5 @@
 # 👋 Hello, I am Bhavani, Welcome to My Page!
-[![Gmail](https://img.shields.io/badge/Bhavani-orange?style=flat&logo=gmail)](mailto:Bhavanirams@gmail.com)
+[![Gmail](https://img.shields.io/badge/Bhavanirams2020@gmail.com-orange?style=flat&logo=gmail)](mailto:Bhavanirams2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavani-bala)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Bhavani-Balasubramanian)
 
