@@ -36,5 +36,5 @@ Now, as an **aspiring Business Intelligence & Data Analyst**, I love turning raw
 - Pronouns: She/Her  
 - Hobbies: Yoga, Singing, Walking, Exploring AI tools, Traveling
 ---
-![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavaniRam&show_icons=true&theme=radical)
+![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavani-Balasubramanian&show_icons=true&theme=radical)
 
