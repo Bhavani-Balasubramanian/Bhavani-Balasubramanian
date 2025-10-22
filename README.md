@@ -14,7 +14,9 @@ Now, as an **aspiring Business Intelligence & Data Analyst**, I love turning raw
 ---
 
 ## 📂 Project List
-- **SQL Analysis: VentureInsight** – SQL & Excel
+
+**[SQL Analysis: VentureInsight](https://github.com/Bhavani-Balasubramanian/Business-Intelligence-Analytics-TripleTen/tree/main/SQL_Analysis_VentureInsight)** – SQL & Excel
+
  
 
 <!--*(You can add screenshots or GIFs of dashboards in each repo for visual impact)* -->
