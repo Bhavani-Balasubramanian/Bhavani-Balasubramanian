@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Bhavani-Balasubramanian)
 
 A Computer Science graduate with experience as a **Software Engineer, Project Manager, and Educator**.  
-Now, as an **aspiring Business Intelligence & Data Analyst**, I love turning raw data into actionable insights and compelling stories that drive decisions.
+Now as a **Data and Business Intelligence Analyst**, I love turning raw data into actionable insights and compelling stories that drive meaningful decisions.
 
 ---
 
