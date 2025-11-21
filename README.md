@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavani-bala)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Bhavani-Balasubramanian)
 
-A Computer Science graduate with experience as a **Software Engineer, Project Manager, and Educator**.  
-Now as a **Data and Business Intelligence Analyst**, I love turning raw data into actionable insights and compelling stories that drive meaningful decisions.
+Master’s in Computer Science, leveraging experience in software engineering, project management, and education.
+Currently diving deep into **Data & BI Analytics** to transform data into impactful insights.
 
 ---
 
