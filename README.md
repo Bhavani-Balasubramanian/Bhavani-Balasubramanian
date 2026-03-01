@@ -17,7 +17,7 @@ Currently diving deep into **Data & BI Analytics** to transform data into impact
 
 **[SQL Analysis: VentureInsight](https://github.com/Bhavani-Balasubramanian/Business-Intelligence-Analytics-TripleTen/tree/main/SQL_Analysis_VentureInsight)** – SQL & Excel
 
- 
+ **[Code Jam](https://github.com/Bhavani-Balasubramanian/CodeJam)** - U.S. Consumer Behavior Under Inflation | Power BI Case Study
 
 <!--*(You can add screenshots or GIFs of dashboards in each repo for visual impact)* -->
 
