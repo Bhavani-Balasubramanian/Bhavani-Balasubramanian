@@ -19,6 +19,10 @@ Currently diving deep into **Data & BI Analytics** to transform data into impact
 
  **[Code Jam](https://github.com/Bhavani-Balasubramanian/CodeJam)** - U.S. Consumer Behavior Under Inflation | Power BI Case Study
 
+ **[Power BI Project](https://github.com/Bhavani-Balasubramanian/Zomato-CustomerSegmentation-Power-BI/tree/main)** - Zomato-CustomerSegmentation | Power BI Case Study
+
+ 
+
 <!--*(You can add screenshots or GIFs of dashboards in each repo for visual impact)* -->
 
 ---
